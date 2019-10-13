@@ -1,10 +1,10 @@
 SOURCE_BASE_URL = '/Users/hayasnc/Desktop/'
-DESTINATION_BASE_URL = '/Users/hayasnc/Downloads/'
+DESTINATION_BASE_URL = '/Users/hayasnc/Documents/'
 DESTINATION_DIR_OTHERS = DESTINATION_BASE_URL + 'Others'
 DESTINATION_DIR = {
     # Text
-    '.txt': DESTINATION_BASE_URL + "Text",
-    '.pdf': DESTINATION_BASE_URL + "Text",
+    '.txt': DESTINATION_BASE_URL + "Doc",
+    '.pdf': DESTINATION_BASE_URL + "Doc",
     '.mkv': DESTINATION_BASE_URL + "Video",
     '.mp4': DESTINATION_BASE_URL + "Video",
     # Images
